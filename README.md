@@ -48,12 +48,4 @@ By focusing on **sales per area, customer, and item**, we highlighted:
 - Underperforming large stores  
 - Opportunities to **benchmark**, **improve**, and **allocate resources** smartly.
   
-## 🙌 Contributing
 
-Contributions, issues, and feature requests are welcome!  
-Feel free to fork the repo and submit pull requests.
-
-## 📚 References
-
-- [Supermarket Dataset](#)
-- [SQL Server Documentation](https://learn.microsoft.com/en-us/sql/sql-server/)
